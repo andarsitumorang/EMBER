@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6c529ba975f1aeca9d8234935a928e34e7852a1d",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6c529ba975f1aeca9d8234935a928e34e7852a1d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "THE EMBER JACKET",
+  "SYMBOL": "JACKET",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/the-ember-jacket",
+  "SHOW_BACKGROUND": true
+}
